@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-    int i;
+    int i;                          //taking integer variable 
     cin>>i;
     int n;
     for(int n=2;n<i;n++){
