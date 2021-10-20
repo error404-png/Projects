@@ -7,7 +7,7 @@ int main(){
     cin>>number;                                        //Asking integer value from the user
 
     int sum=0;                                          
-    for(int counter=1;counter<=number;counter++) {//inserting loop into the code
+    for(int counter=1;counter<=number;counter++) {      //inserting loop into the code
     sum=sum+counter;
     }
 
